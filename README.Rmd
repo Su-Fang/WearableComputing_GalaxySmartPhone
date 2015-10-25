@@ -1,9 +1,4 @@
----
-title: "README"
-author: "Su-Fang"
-date: "October 25, 2015"
-output: html_document
-------------
+
 ### Introduction
 The purpose of this project is to get experience in collecting, working with, and cleaning a data set. The goal is to prepare a tidy data that can be used for later analysis.
 

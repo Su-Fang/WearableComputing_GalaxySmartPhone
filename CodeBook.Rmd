@@ -1,14 +1,8 @@
----
-title: "CodeBook for run_analysis.R"
-author: "Su-Fang"
-date: "October 25, 2015"
-output: html_document
----
 
 ### The data source
-[The raw data can be downloaded here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+The raw data can be downloaded here. [ClickMe](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
- [A full description for the raw data can be found here.](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
+A full description for the raw data can be found here. [ClickMe](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
 
 ### Download and unzip the dataset
 *Save the dataset in the "Data" folder of your working directory*
